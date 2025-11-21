@@ -256,7 +256,7 @@ export default function ProductivityDashboard() {
         />
 
         <div className="mt-8 flex items-center justify-center gap-2 text-xs text-slate-400 dark:text-slate-600 pb-8">
-          <span>TaskFlow AI v3.5 Mobile</span>
+          <span>TaskFlow AI v4.0 (DEBUG MODE)</span>
         </div>
       </main>
     </div>
